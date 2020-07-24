@@ -1,0 +1,29 @@
+<form action="/action_page.php">
+<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+	<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<link rel="stylesheet" href="./styles.css">
+      <label for="cardnumber">(required) CARD NUMBER</label>
+  <input type="cardcredit/Visa / MasterCard / Diners Club / JCB / American Express / UnionPay " id="code" name="creditcard/debitcard " placeholder="0000 0000 0000 0000">
+  <html>
+  	<p>
+        <label for="cardname">(required)=CARD NAME</label>
+  <input type="cardname" id="name" name="name" placeholder="card name">
+  </p>
+      <p>
+      <label for="expirymonth/year">EXPIRY MONTH/YEAR</label>
+  <input type="calendar" id="codecalendar" name="calendar" placeholder="MM/YY">
+  </p>
+  <p>
+     
+      <label for="cvc">code behind the card=CVC</label>
+  <input type="code cvc" id="code cvc" name="cvc" placeholder="XXX">
+  </p>
+   <li><a href=" img src=" https://www.linkpicture.com/q/images-6_63.jpeg" type="image"><img src="https://raw.githubusercontent.com/amarofashion/react-credit-cards/master/docs/media/rccs.gif"type="imge gif"></a>
+   
+<a hrefs="https://github.com/jaroon09et/web99.io.git> SD all documents on the hub </a>
+ </html>
+
+   
+  
