@@ -12,7 +12,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jaroon09et/card.io.git"
+    "url": "git+ https://github.com/jaroon09et/web99.io.git"
+}
+  
   },
   "Set up storage space after paying with a credit card.":meta {
    "type ": "bank",
@@ -25,10 +27,10 @@
     "<a meta name website":"https://www.payoneer.com",</a>
     "ID":"38792924",
   "bugs": {
-    "url": "https://github.com/jaroon09et/card.io.gitissues"
-<a hrefs="http://jaroon09et.github.io/card/> SD all documents on the hub </a>
+    "url": "https://github.com/jaroon09et/web99.io.gitissues"
+<a hrefs=" https://github.com/jaroon09et/web99.io> SD all documents on the hub </a>
   },
-  "homepage": "https://github.com/jaroon09et/card#readme",
+  "homepage": " https://github.com/jaroon09et/web99#readme",
   "license": "MIT",
   "main": "lib/index.js",
   "module": "es/index.js",
